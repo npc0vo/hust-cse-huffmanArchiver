@@ -11,8 +11,8 @@ UI基于MFC
 
 1. 压缩
 
-<img src="./README/image-20250224195531762.png" alt="image-20250224195531762" width="180" height="105"> />
+<img src="./README/image-20250224195531762.png" alt="image-20250224195531762" width="360" height="400">
 
 2. 解压缩
 
-<img src="./README/image-20250224195610109.png" alt="image-20250224195610109" width="180" height="105"> />
+<img src="./README/image-20250224195610109.png" alt="image-20250224195610109" width="360" height="400"> 
